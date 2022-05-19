@@ -13,5 +13,9 @@ Pillow==9.0.1
 scikit-learn==1.0.2
 scipy==1.8.0
 tslearn==0.5.2
-
+```
+User optional
+```
+input.csv : Actual data
+test.csv : Test input
 ```
